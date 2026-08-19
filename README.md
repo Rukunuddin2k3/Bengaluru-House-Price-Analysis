@@ -18,7 +18,7 @@ Analysis of Bengaluru house prices to identify factors affecting property prices
 - Total Sqft and property price show a generally positive relationship.
 
 ## Dashboard
-[Add dashboard screenshot here]
+![alt text](<images/Screenshot 2026-08-19 155351.png>)
 
 ## Files
 - Cleaned dataset
